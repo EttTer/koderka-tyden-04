@@ -17,3 +17,11 @@ body {
 
 /* ---------------------------------------------------- */
 
+.kontejner {display: flex;
+flex-wrap: wrap;}
+
+.horni {flex-basis: 100%;}
+
+.prvni {flex-basis: 33,333%;}
+.druhy {flex-basis: 33,333%;}
+.treti {flex-basis: 33,333%;}
