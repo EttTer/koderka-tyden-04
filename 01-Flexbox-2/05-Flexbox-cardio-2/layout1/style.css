@@ -19,4 +19,15 @@ nav {
 /* tady piš svoje CSS */
 /* -------------------------------------------- */
 
+header {height: 150px;}
 
+
+.main {display: flex;
+height: 50vh;
+justify-content: space-between;}
+
+.vlevo {display: flex;
+}
+
+aside,nav{width: 200px;}
+footer{ height: 150px;}
